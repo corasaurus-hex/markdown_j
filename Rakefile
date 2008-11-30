@@ -12,6 +12,7 @@ begin
     s.homepage = "http://github.com/corasaurus-hex/markdown_j"
     s.description = "TODO"
     s.authors = ["Cora Sutton"]
+    s.files = FileList["[A-Z]*.*", "{bin,generators,lib,test,spec}/**/*"]
   end
 rescue LoadError
   puts "Jeweler not available. Install it with: sudo gem install technicalpickles-jeweler -s http://gems.github.com"
