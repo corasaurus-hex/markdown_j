@@ -1,4 +1,4 @@
-require File.dirname(__FILE__) + '/markdownj-1.0.2b1-0.2.0.jar'
+require File.dirname(__FILE__) + '/markdownj-1.0.2b4-0.3.0.jar'
 
 class MarkdownJ
   attr_accessor :text
