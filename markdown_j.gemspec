@@ -9,6 +9,7 @@ Gem::Specification.new do |s|
   s.date = %q{2008-11-30}
   s.description = %q{TODO}
   s.email = %q{nate@sevenwire.com}
+  s.files = ["VERSION.yml", "lib/markdown_j.rb", "lib/markdownj-1.0.2b1-0.2.0.jar", "test/markdown_j_test.rb", "test/test_helper.rb"]
   s.homepage = %q{http://github.com/corasaurus-hex/markdown_j}
   s.require_paths = ["lib"]
   s.rubygems_version = %q{1.3.1}
